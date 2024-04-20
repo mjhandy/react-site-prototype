@@ -1,4 +1,4 @@
-# react-site-prototype
+# React Base Site Prototype
 My prototype site built using React
 
 # Goals
